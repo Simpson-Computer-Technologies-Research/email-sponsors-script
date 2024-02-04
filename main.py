@@ -21,8 +21,8 @@ def main():
     ##
     ## Constants
     ##
-    EMAIL_FILE: str = "emails/emails-shayan.txt"
-    SPONSORS_FILE: str = "sponsors/sponsors-shayan.csv"
+    EMAIL_FILE: str = "emails/emails-tristan-2.txt"
+    SPONSORS_FILE: str = "sponsors/sponsors-tristan-2.csv"
 
     ##
     ## Open the emails text file and clear it
@@ -43,9 +43,9 @@ def main():
         ##
         formatted_email = email_format(
             sponsor.name,
-            "Shayan Shah",
-            "Event Coordinator",
-            "shayanar@uoguelph.ca",
+            "Tristan Simpson",
+            "Events Director",
+            "tsimps01@uoguelph.ca",
         )
 
         ##
