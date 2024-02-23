@@ -21,8 +21,8 @@ def main():
     ##
     ## Constants
     ##
-    EMAIL_FILE: str = "emails/emails-tristan-2.txt"
-    SPONSORS_FILE: str = "sponsors/sponsors-tristan-2.csv"
+    EMAIL_FILE: str = "emails/emails.txt"
+    SPONSORS_FILE: str = "sponsors/sponsors.csv"
 
     ##
     ## Open the emails text file and clear it
