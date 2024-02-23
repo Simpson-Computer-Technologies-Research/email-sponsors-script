@@ -42,7 +42,8 @@ def main():
         ## Generate the formatted email
         ##
         formatted_email = email_format(
-            sponsor.name,
+            sponsor.company,
+            sponsor.contact_name,
             "Tristan Simpson",
             "Events Director",
             "tsimps01@uoguelph.ca",
@@ -51,7 +52,7 @@ def main():
         ##
         ## Append the formatted email to the emails text file
         ##
-        with open(EMAIL_FILE, "a") as file:
+        with open(EMAIL_FILE, "a", encoding="utf-8") as file:
             file.write(formatted_email + "\n\n\n")
 
 

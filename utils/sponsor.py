@@ -13,7 +13,8 @@ from dataclasses import dataclass
 ##
 @dataclass
 class Sponsor:
-    name: str
+    company: str
+    contact_name: str
     email: str
 
     ##
