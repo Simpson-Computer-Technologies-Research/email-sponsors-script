@@ -19,11 +19,14 @@ def email_format(
     return f"""
 Dear {contact_name},
 
-I hope this email finds you well. My name is {name} and I’m the {role} for the Google Developer Student Club (GDSC) at the University of Guelph. I am reaching out to express my interest in {company} partnering with the GDSC for our upcoming hackathon that will take place from May 3rd to May 5th. The Google Developer Student Club is a student-led organization supported by Google – dedicated to fostering an innovative environment for over 250 young tech professionals in Guelph.
+I hope this email finds you well. My name is {name} and I’m the {role} for the Google Developer Student Club (GDSC) at the University of Guelph. I’m reaching out to express our interest in {company} partnering with the GDSC for our upcoming hackathon that will take place from May 3rd to May 5th.
 
-With your support, {company} will be able to contribute to a memorable experience for students. In return, you will gain exclusive access to emerging talent and student resumes, significant brand visibility (specific details can be found on our sponsorship package), and recognition for your commitment to education – strengthening your relationship with the University of Guelph. We’d be more than happy to provide our sponsorship package with all of the exclusive perks and marketing opportunities that we provide.
+As a partner, {company} will gain significant visibility through branding opportunities and access to hundreds of students. Some perks include:
+1. Your logo on merchandise, the GDSC Hacks website, a banner, and screens.
+2. Direct engagement with our student body by hosting tech talks and interactive workshops.
+3. A dedicated sponsor booth, the opportunity for 1-on-1 interviews with potential talent, and access to attendee resumes.
 
-We appreciate your consideration, and of course feel free to reach out if you have any questions or if there is any other information that I can provide.
+We truly appreciate your consideration. If you’d like to see the full list of perks the GDSC offers, I’d be more than happy to share our sponsorship package. If you require any more information, please let me know.
 
 Thank you,
 
